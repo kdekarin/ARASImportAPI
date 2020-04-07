@@ -1,0 +1,25 @@
+﻿
+
+@model HomeDetailsViewModel
+@{
+}
+<div class="card" style="margin-top:50px">
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item" style="text-align: center;">
+            <img src="~/images/aras.png" class="card-img-top" alt="Application image" style="width: 249px;height: 124px;" asp-append-version="true">
+        </li>
+        <li class="list-group-item">Version: @ViewBag.ApplicationVersion</li>
+        <li class="list-group-item">Application name: @Model.ApplicationInformation?.ApplicationName</li>
+        <li class="list-group-item">Application description: @Model.ApplicationInformation?.ApplicationDescription</li>
+        <li class="list-group-item">Application Id: @Model.ApplicationInformation?.Id</li>
+        <li class="list-group-item">Application runtime framework full name: @Model.ApplicationInformation?.RuntimeFramework?.FullName</li>
+        <li class="list-group-item">Runtime framework version: @Model.ApplicationInformation?.RuntimeFramework?.Version</li>
+    </ul>
+</div>
+
+<br />
+
+
+@section Scripts{
+    <script type="text/javascript" src="~/custom/js/CustomScript.js"></script>
+}

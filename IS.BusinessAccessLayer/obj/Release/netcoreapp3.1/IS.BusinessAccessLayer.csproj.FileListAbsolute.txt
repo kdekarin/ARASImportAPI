@@ -1,0 +1,8 @@
+C:\TIS\ARASImportService\ImportService\IS.BusinessAccessLayer\bin\Release\netcoreapp3.1\IS.BusinessAccessLayer.deps.json
+C:\TIS\ARASImportService\ImportService\IS.BusinessAccessLayer\bin\Release\netcoreapp3.1\IS.BusinessAccessLayer.dll
+C:\TIS\ARASImportService\ImportService\IS.BusinessAccessLayer\bin\Release\netcoreapp3.1\IS.BusinessAccessLayer.pdb
+C:\TIS\ARASImportService\ImportService\IS.BusinessAccessLayer\obj\Release\netcoreapp3.1\IS.BusinessAccessLayer.csprojAssemblyReference.cache
+C:\TIS\ARASImportService\ImportService\IS.BusinessAccessLayer\obj\Release\netcoreapp3.1\IS.BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\TIS\ARASImportService\ImportService\IS.BusinessAccessLayer\obj\Release\netcoreapp3.1\IS.BusinessAccessLayer.AssemblyInfo.cs
+C:\TIS\ARASImportService\ImportService\IS.BusinessAccessLayer\obj\Release\netcoreapp3.1\IS.BusinessAccessLayer.dll
+C:\TIS\ARASImportService\ImportService\IS.BusinessAccessLayer\obj\Release\netcoreapp3.1\IS.BusinessAccessLayer.pdb

@@ -1,0 +1,8 @@
+C:\TIS\ARASImportService\ImportService\01_WebApi_NewCore\obj\Debug\netcoreapp3.1\01_WebApi_NewCore.csprojAssemblyReference.cache
+C:\TIS\ARASImportService\ImportService\01_WebApi_NewCore\obj\Debug\netcoreapp3.1\staticwebassets\01_WebApi_NewCore.StaticWebAssets.Manifest.cache
+C:\TIS\ARASImportService\ImportService\01_WebApi_NewCore\obj\Debug\netcoreapp3.1\staticwebassets\01_WebApi_NewCore.StaticWebAssets.xml
+C:\TIS\ARASImportService\ImportService\01_WebApi_NewCore\obj\Debug\netcoreapp3.1\01_WebApi_NewCore.MvcApplicationPartsAssemblyInfo.cache
+C:\TIS\ARASImportService\ImportService\01_WebApi_NewCore\obj\Debug\netcoreapp3.1\01_WebApi_NewCore.RazorAssemblyInfo.cache
+C:\TIS\ARASImportService\ImportService\01_WebApi_NewCore\obj\Debug\netcoreapp3.1\01_WebApi_NewCore.RazorAssemblyInfo.cs
+C:\TIS\ARASImportService\ImportService\01_WebApi_NewCore\obj\Debug\netcoreapp3.1\01_WebApi_NewCore.AssemblyInfoInputs.cache
+C:\TIS\ARASImportService\ImportService\01_WebApi_NewCore\obj\Debug\netcoreapp3.1\01_WebApi_NewCore.AssemblyInfo.cs

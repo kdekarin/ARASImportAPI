@@ -1,0 +1,1 @@
+﻿console.log("ASP.NET Core Web API - Wellcome");
